@@ -1,0 +1,27 @@
+{
+  "name": "leagueoflegends-api",
+  "version": "1.0.0",
+  "description": "Basic Js for pulling data from the Official League of Legends API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BruceTheVeteran/LeagueOfLegends-Api.git"
+  },
+  "keywords": [
+    "League",
+    "League",
+    "of",
+    "Legends",
+    "Api",
+    "MongoDb"
+  ],
+  "author": "BruceTheVeteran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BruceTheVeteran/LeagueOfLegends-Api/issues"
+  },
+  "homepage": "https://github.com/BruceTheVeteran/LeagueOfLegends-Api#readme"
+}
